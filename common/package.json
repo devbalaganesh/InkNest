@@ -1,0 +1,21 @@
+{
+  "name": "@bala_dev/inknest-common",
+  "version": "1.0.3",
+  "description": "",
+  "main": "dist/index.js",
+   "types": "dist/index.d.ts",
+  "files": ["dist"],
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@bala_dev/inknest-common": "^1.0.2",
+    "zod": "^4.1.5"
+  }
+}
